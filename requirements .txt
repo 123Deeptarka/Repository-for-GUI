@@ -1,4 +1,6 @@
 catboost
+streamlit
+streamlit_option_menu
 matplotlib
 pandas
 pip
